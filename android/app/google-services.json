@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760835345024",
+    "project_id": "my-balancebox-ub",
+    "storage_bucket": "my-balancebox-ub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760835345024:android:91d059fbcc6f93b623f465",
+        "android_client_info": {
+          "package_name": "ub.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CMMOyJs5XMfeoPsL8W8aq9ebZERic1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
